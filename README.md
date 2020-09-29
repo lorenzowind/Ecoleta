@@ -20,7 +20,7 @@ O projeto **Ecoleta** é uma aplicação que automatiza o processo de descarte d
 
 ## 💻 Tecnologia utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React.js](https://reactjs.org/)
 - [Leaflet](https://leafletjs.com/)
@@ -42,7 +42,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ cd backend
 
     # Instalar as dependências
-    $ yarn install
+    $ yarn
 
     # Rodar as migrations
     $ npx knex migrate:latest
@@ -54,7 +54,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ cd frontend
 
     # Instalar as dependências
-    $ yarn install
+    $ yarn
 
     # Iniciar o frontend
     $ yarn start
@@ -63,7 +63,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ cd mobile
 
     # Instalar as dependências
-    $ yarn install
+    $ yarn
 
     # Iniciar o mobile
     $ yarn start
